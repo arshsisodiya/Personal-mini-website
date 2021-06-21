@@ -22,8 +22,9 @@ window.onload = function() {
     'My real name is Bhagchand Meena',
     'AKA <a target="_blank" href="https://t.me/NmberSEVEN">NmberSeven</a> on Telegram',
     'I design and code things on the web',
-    'Trying to learn new stuff everyday',
-    '<a target="_blank" href="https://twitter.com/arsh_sisodya">twitter.com/arsh_sisodya</a><br><a target="_blank" href="https://github.com/arshsisodya">github.com/arshsisodiya</a><br><a target="_blank" href="https://instagram.com/bhagchand_.meena">instagram.com/arshsisodiya</a>',
+    'Reading books📚 nowdays',
+    'you can find me on below places 👇',
+    '<img src="https://img.icons8.com/fluent/30/000000/twitter.png"/><a target="_blank" href="https://twitter.com/arsh_sisodya"> twitter.com/arsh_sisodya</a><br> <img src="https://img.icons8.com/windows/32/000000/github.png"/><a target="_blank" href="https://github.com/arshsisodya"> github.com/arshsisodiya</a><br> <a target="_blank" href="https://instagram.com/bhagchand_.meena">instagram.com/arshsisodiya</a>',
     getCurrentTime(),
     '👀 A.'
   ]
