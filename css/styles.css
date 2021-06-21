@@ -63,7 +63,9 @@ body {
 }
 .bubble a {
   color: #0076FF;
+  text-decoration: none;
 }
+
 .bubble .loading {
   position: absolute;
   width: 2.25rem;
