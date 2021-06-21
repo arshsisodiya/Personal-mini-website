@@ -65,7 +65,11 @@ body {
   color: #0076FF;
   text-decoration: none;
 }
-
+a:hover{
+  color:#002d62;
+  transition: color .5s ease;
+  cursor: help;
+}
 .bubble .loading {
   position: absolute;
   width: 2.25rem;
